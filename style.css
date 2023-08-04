@@ -66,8 +66,9 @@ form .display input{
 }
 form input.qualButton{
     width: 145px;
+
 }
 form input.oparater{
-    color: aquamarine;
+    color: rgb(106, 219, 182);
 
 }
